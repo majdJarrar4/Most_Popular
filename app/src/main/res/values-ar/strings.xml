@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name" translatable="false">Most Popular</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard" translatable="false">Dashboard</string>
-    <string name="user_information" translatable="false">معلومات المستخدم</string>
+    <string name="title_home">الصفحة الرئيسه</string>
+    <string name="title_dashboard" >Dashboard</string>
+    <string name="user_information" >معلومات المستخدم</string>
     <string name="title_notifications">Notifications</string>
     <string name="day">يوم</string>
-    <string name="full_name">Full Name</string>
-    <string name="email">Email</string>
-    <string name="date_of_birth">Date of birth</string>
-    <string name="password">Password</string>
-    <string name="phone_number">Phone Number</string>
-    <string name="nationalid">NationalID</string>
-    <string name="login">Login</string>
-    <string name="register">Register</string>
-    <string name="details">Details</string>
-    <string name="logout">Logout</string>
-    <string name="search">search</string>
+    <string name="full_name">الاسم بالكامل</string>
+    <string name="email">الايميل</string>
+    <string name="date_of_birth">تاريخ الميلاد</string>
+    <string name="password">الباسوورد</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="nationalid">الرقم الوطني</string>
+    <string name="login">الدخول</string>
+    <string name="register">تسجيل الدخول</string>
+    <string name="details">التفاصيل</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="search">البحث</string>
 </resources>
